@@ -1,0 +1,13 @@
+.formContainer{
+    background-image: linear-gradient(to bottom right, rgb(178, 38, 178),rgb(42, 42, 237),rgb(248, 54, 248),rgb(246, 198, 87));
+}
+
+.Date{
+    display: grid;
+    grid-template-columns: 600px;
+    margin-left: 410px;
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+    width: 600px
+}
+
